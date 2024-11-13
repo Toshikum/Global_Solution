@@ -27,6 +27,7 @@ Clone o repositório:
   Abra o terminal e clone o repositório para o seu ambiente local com o comando:
   
   cd seu-repositorio
+  
   git clone https://github.com/seu-usuario/seu-repositorio.git
 
 Execute o programa:
