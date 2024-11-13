@@ -1,6 +1,7 @@
 # Global_Solution
 
-#Funcionamento do Programa
+**Funcionamento do Programa**
+
 Este programa coleta dados de consumo de energia limpa ao longo de um número de dias especificado pelo usuário. Ele realiza as seguintes funções:
 
 Entrada de Dados:
@@ -20,7 +21,7 @@ Relatório de Resultados:
 Gera uma mensagem específica baseada em quantos dias atingiram a meta de consumo sustentável.
 Exibe a média de consumo, o maior consumo e o menor consumo.
 
-#Etapas para Executar o Código
+**Etapas para Executar o Código**
 
 Clone o repositório:
 
