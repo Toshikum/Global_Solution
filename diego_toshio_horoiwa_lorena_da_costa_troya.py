@@ -1,3 +1,9 @@
+#nome: Diego Toshio horoiwa
+#RM: 560860
+
+#nome: Lorena da Costa Troya
+#RM: 560448
+
 dias= int(input('Insira a quantidade de dias: '))
 maior = 0
 menor = 0
@@ -23,10 +29,9 @@ for d in range (1, dias + 1):
             menor = consumo
 
     if consumo >= meta:
-        cumpriram += 1
-    else:
         nao_cumpriram += 1
-
+    else:
+        cumpriram += 1
 
 media = soma_de_consumo/dias
 
